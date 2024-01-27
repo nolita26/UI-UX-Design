@@ -1,0 +1,4 @@
+*Little Lemon Restaurant:*
+- We're tackling the challenge of enabling customers to easily reserve a table at Little Lemon restaurant through the mobile website.
+- Presently, navigating the reservation process can be cumbersome, potentially causing frustration and missed business opportunities. 
+- Our goal is to simplify this process, ensuring it's intuitive, efficient, and pleasant for users, all while aligning with the brand's identity and maintaining coherence with the website's overall design.
